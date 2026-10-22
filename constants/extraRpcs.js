@@ -271,6 +271,16 @@ export const privacyStatement = {
 };
 
 export const extraRpcs = {
+  12142816: {
+    rpcs: [
+      {
+        url: "https://rpc.winmarchain.io",
+        tracking: "unspecified",
+        trackingDetails:
+          "Winmar Chain public RPC privacy classification is pending an operator review of CDN, reverse-proxy, node and monitoring logging, including data retention. No no-tracking claim is made. https://github.com/eriqueedw-star/winmar-chain/blob/main/docs/RPC_PRIVACY_DISCLOSURE.md",
+      },
+    ],
+  },
   1: {
     rpcs: [
       {
